@@ -1,0 +1,15 @@
+.app-fetch {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  padding-left: calc(50vw - 5px);
+  align-items: center;
+  text-align: center;
+  background-color: black;
+  color: #eee;
+}
+
+.points-container {
+  width: 100%;
+  min-height: 250px;
+}
